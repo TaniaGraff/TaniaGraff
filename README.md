@@ -1,14 +1,35 @@
-# Hi, I'm Tania 👋
+# Hola, soy Tania 👋
 
-I blend technical skills and creativity to help companies make smarter, data-driven decisions and spot new business opportunities. As a Digital Analyst, I have gained hands-on experience with analytics tools such as Adobe Analytics and GA4, as well as visualization solutions like Looker Studio and Power BI, contributing to reporting, analysis and data optimization projects.
+Combino habilidades técnicas y creatividad para ayudar a las empresas a tomar decisiones más inteligentes basadas en datos y a detectar nuevas oportunidades de negocio. Como Analista Digital, he adquirido experiencia práctica en herramientas de analítica como Adobe Analytics y GA4, así como en soluciones de visualización como Looker Studio y Power BI, participando en proyectos de reporting, análisis y optimización del dato.
 
-## Skills 🛠️
-- **Languages:** Python, SQL
-- **Web Analytics:** GA4, Adobe Analytics
-- **Visualization:** Looker Studio, Power BI
-- **Tools:** Git, GitHub, VS Code
+## Habilidades 🛠️
+- **Lenguajes:** Python, SQL
+- **Analítica web:** GA4, Adobe Analytics
+- **Visualización:** Looker Studio, Power BI
+- **Herramientas:** Git, GitHub, VS Code
 
-## Education 🎓
-- **Data Analyst Bootcamp** | Somos F5 · *Nov 2026 – Present*
-- **Digital Data Analyst Bootcamp** | MOA Institute · *Oct 2025 – Dec 2025*
-- **Data Analytics Bootcamp** | Adalab · *Feb 2024 – Aug 2024*
+## Formación 🎓
+- **Bootcamp de Data Analyst** | Somos F5 · *nov. 2026 – actualidad*
+- **Bootcamp de Digital Data Analyst** | MOA Institute · *oct. 2025 – dic. 2025*
+- **Bootcamp de Data Analytics** | Adalab · *feb. 2024 – ago. 2024*
+
+## Experiencia 💼
+
+**Digital Data Analyst** | Improving · *may. 2026 – ago. 2026* 
+- Reporting BAU y mantenimiento de dashboards con Adobe Analytics | Power BI
+- Clientes: FC Barcelona
+
+**Digital Data Analyst** | Nateevo · *ene. 2025 – abr. 2026* 
+- Reporting BAU y mantenimiento de dashboards con Adobe Analytics y GA4 | PowerBI · Looker Studio
+- Clientes: CaixaBank, Avolta
+
+**Creative Copywriter (freelance)** | Room23 · *sept. 2022 – dic. 2024*
+- Creación y redacción de campañas y activaciones de marca on y off
+- Clientes: Evian, Danone
+
+**Directora Creativa** | Atrevia Barcelona · *jun. 2016 – mar. 2022*
+- Estrategia de marca, creación y redacción de campañas, activaciones on y off, consumer insights y presentaciones a cliente.
+- Clientes: Lidl, Brico Dépôt, Idilia Foods
+
+## Contacto 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tania-graff)
